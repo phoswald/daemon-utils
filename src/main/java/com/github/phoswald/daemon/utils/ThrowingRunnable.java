@@ -1,4 +1,4 @@
-package phoswald.daemon.utils;
+package com.github.phoswald.daemon.utils;
 
 public interface ThrowingRunnable {
 

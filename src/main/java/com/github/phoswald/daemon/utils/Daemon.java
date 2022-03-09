@@ -1,4 +1,4 @@
-package phoswald.daemon.utils;
+package com.github.phoswald.daemon.utils;
 
 /**
  * A helper class for implementing long running applications that terminate <b>cleanly</b> upon SIGTERM.
